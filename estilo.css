@@ -1,0 +1,9 @@
+    body{
+        background-color: blue; /* color de fondo */
+    }
+    h1{ /* titulo */
+        color:#fff; /* color de letras */
+    }
+    img{
+        width: 400px; /* tamaño de imagen */
+    }
